@@ -1,9 +1,10 @@
 
-  
 
 # Bateria Inteligente
 
 Crie e toque suas próprias composições musicais com facilidade usando JavaScript, HTML e CSS. A Bateria Inteligente é um aplicativo web que permite aos usuários compor e executar músicas através de um teclado interativo.
+
+<img  src="imgp.png"  alt="imagem_readme">
 
 ## Visão Geral
 
